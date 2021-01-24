@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/cncd/pipeline/pipeline/frontend/yaml"
-	"github.com/cncd/pipeline/pipeline/frontend/yaml/linter"
+	"github.com/mengkzhaoyun/pipeline/pipeline/frontend/yaml"
+	"github.com/mengkzhaoyun/pipeline/pipeline/frontend/yaml/linter"
 
 	"github.com/kr/pretty"
 	"github.com/urfave/cli"

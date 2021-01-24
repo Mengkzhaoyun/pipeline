@@ -3,7 +3,7 @@ package yaml
 import (
 	"testing"
 
-	"github.com/cncd/pipeline/pipeline/frontend"
+	"github.com/mengkzhaoyun/pipeline/pipeline/frontend"
 
 	"gopkg.in/yaml.v2"
 )

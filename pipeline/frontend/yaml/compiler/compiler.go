@@ -3,9 +3,9 @@ package compiler
 import (
 	"fmt"
 
-	"github.com/cncd/pipeline/pipeline/backend"
-	"github.com/cncd/pipeline/pipeline/frontend"
-	"github.com/cncd/pipeline/pipeline/frontend/yaml"
+	"github.com/mengkzhaoyun/pipeline/pipeline/backend"
+	"github.com/mengkzhaoyun/pipeline/pipeline/frontend"
+	"github.com/mengkzhaoyun/pipeline/pipeline/frontend/yaml"
 )
 
 // TODO(bradrydzewski) compiler should handle user-defined volumes from YAML
